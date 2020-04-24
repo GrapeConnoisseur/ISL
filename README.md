@@ -1,2 +1,2 @@
-# PrimaryMachineLearning
-Repo to cover topics in machine learning from ground up
+# Introduction to Statistical Learning
+Repo to cover topics in machine learning from the book
